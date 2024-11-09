@@ -1,0 +1,3 @@
+[submodule "DATN_PCGear_BackEnd"]
+	path = DATN_PCGear_BackEnd
+	url = https://github.com/dangnt1301/dangnt.git
